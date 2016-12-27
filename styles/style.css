@@ -1,8 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Aref+Ruqaa');
+
+
 body {
   width: 400px;
   margin: 0 auto;
-  background-color: #FF9500;
-  padding: 20px 20px 20px 20px;
-  border: 5px solid black;
+  background-color: #FFFFFF;
   text-align: center;
 }
+
+h1 {
+	font-family: 'Aref Ruqaa', serif;
+	color: #0099FF;
+}
+
+.myText {
+	text-align: center;
+	align: right;
+	width: 600px;
+	padding: 10px 10px 10px 10px;
+	margin: 20px 100px 0 -100px;
+}
+
+#opBox {
+	font-family: 'Aref Ruqaa', serif;
+	margin: 50px 0 0 0;
+}
+
